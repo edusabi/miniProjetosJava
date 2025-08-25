@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BibliotecaDigital/BibliotecaDigital.iml" filepath="$PROJECT_DIR$/BibliotecaDigital/BibliotecaDigital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularSalarioFuncionario/CalcularSalarioFuncionario.iml" filepath="$PROJECT_DIR$/CalcularSalarioFuncionario/CalcularSalarioFuncionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GerenciadorAnimaisZoologico/GerenciadorAnimaisZoologico.iml" filepath="$PROJECT_DIR$/GerenciadorAnimaisZoologico/GerenciadorAnimaisZoologico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaPagamentoCompras/SistemaPagamentoCompras.iml" filepath="$PROJECT_DIR$/SistemaPagamentoCompras/SistemaPagamentoCompras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaVeiculos/SistemaVeiculos.iml" filepath="$PROJECT_DIR$/SistemaVeiculos/SistemaVeiculos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/miniProjetosJava.iml" filepath="$PROJECT_DIR$/.idea/miniProjetosJava.iml" />
+    </modules>
+  </component>
+</project>
